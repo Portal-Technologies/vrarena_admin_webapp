@@ -5,7 +5,7 @@
 - **Supabase:** — (runtime коннектится к `kzdxitunulgdoorbkqdw`)
 - **Заменяет (из old/):** —
 - **Docs:** [README.md](README.md)
-- **Open issues:** —
+- **Open issues:** [TASKS.md](TASKS.md)
 
 ## ⚠ Не редактировать вручную
 
