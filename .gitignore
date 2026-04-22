@@ -1,2 +1,6 @@
 .DS_Store
 .vercel
+
+# Workspace-level docs (kept local only — этот репо публичный)
+CLAUDE.md
+TASKS.md
